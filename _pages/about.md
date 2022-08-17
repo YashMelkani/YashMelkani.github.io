@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi!
-I am an undergrad at the University of California, Berkeley majoring in Engineering Physics. Currently, I am employed at the University of Alabama, Birmingham as an undergraduate researcher where I utilize machine learning for cardiac analysis of Drosophila (fruit fly). I am eager to participate in additional research, particularly within the realms of physics and machine learning. You can find more information about my current research as well as previous research experiences and personal projects [here](https://YashMelkani.github.io/research/).  
+I am an undergrad at the University of California, Berkeley majoring in Engineering Physics. Currently I am employed at the University of Alabama, Birmingham as an undergraduate researcher where I utilize machine learning for cardiac analysis of Drosophila (fruit fly). I am eager to participate in additional research, particularly within the realms of physics and machine learning. You can find more information about my current research as well as previous research experiences and personal projects [here](https://YashMelkani.github.io/research/).  
 
 <!-- A data-driven personal website
 ======
