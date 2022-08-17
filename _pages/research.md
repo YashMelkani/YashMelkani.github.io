@@ -14,8 +14,9 @@ Machine Learning of Contractile Dynamics in Drosophila Heart
 ======
 The Drosophila model has proven tremendously powerful for understanding and developing treatments for several human disorders, including cardiovascular disease and aging. Relevant advanced high-speed imaging and high-throughput lab assays generate large volumes of high-resolution videos, necessitating next-generation methods for rapid analysis. I work on developing deep learning techniques for the automatic segmentation of heart walls in drosophila cardiac recordings. These segmentations are used to calculate important diagnostic cardiac parameters for cardiac aging. 
 
+
 ![Example Pipeline of Drosophila Segmentation](/images/sitegif.gif)
-<font size="6"> **Input video and resulting neural network output.** **(a)** Original frame of input video **(b)** Neural network sigmoid output for input frame **(c)** Resulting segmentation mask (red) overlaid on original input frame **(d)** Timeseries of average diameter per frame </font>
+{{< caption >}} **Input video and resulting neural network output.** **(a)** Original frame of input video **(b)** Neural network sigmoid output for input frame **(c)** Resulting segmentation mask (red) overlaid on original input frame **(d)** Timeseries of average diameter per frame {{< /caption >}}
 
 Machine Learning for Particle Physics
 ======
