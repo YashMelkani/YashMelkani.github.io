@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**This page is a Work-in-progress**
+
 Education
 ======
 * B.S. in Engineering Physics, University of California, Berkeley, 2024 (in progress)
@@ -64,7 +66,7 @@ variants (DenseNet, AttUNet), GANS, dimensionality reduction techniques (UMAP, t
 simulations.
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -84,4 +86,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
